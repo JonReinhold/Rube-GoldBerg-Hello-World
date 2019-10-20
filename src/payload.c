@@ -11,6 +11,5 @@ int main()
    fprintf(file,"%s", response);
    fclose(file);
 
-   return 0;
-
+   return 0
 }
